@@ -1,0 +1,26 @@
+# The Mnemonic Vocabulary lens (ocoeco SPEC.md section 8).
+schema = 1
+
+[lens]
+title = "Mnemonic Vocabulary"
+goal = "an interactive engine for all mnemonic techniques - and the memory kingdom they build"
+
+[family]
+owners = ["Mnemonic-Vocabulary-org"]
+
+[[view]]
+id = "index"
+title = "How close we are"
+kind = "path"
+subject = "mnemonic-vocabulary"
+
+[[view]]
+id = "ideas"
+title = "Ideas"
+kind = "ideas"
+lead = "What it is and what it is for - as its author described it."
+
+[[view]]
+id = "backlog"
+title = "Backlog"
+kind = "backlog"
